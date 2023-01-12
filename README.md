@@ -24,3 +24,5 @@ My SQL code includes the use of the following statements:
 8. VIEWS & Temporary tables
 
 Instead of one long script, I split my analysis into separate files for readability.
+
+See the final presentation in Tableau [here](https://public.tableau.com/app/profile/chase.carlson/viz/BellabeatMarketingCaseStudy/FitnessTrackerTrends).
